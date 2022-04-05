@@ -36,7 +36,8 @@ const About = () => {
         </article>
 
       </div>
-          <p> Soy Marcos Esteban Godoy, desarrollador web, pongo mis habilidades técnicas al servicio de tus creativas ideas. 
+          <p> Soy Marcos Esteban Godoy, me especializo en tecnologias de front-end en el desarrollo web,  
+            pongo mis habilidades técnicas al servicio de tus creativas ideas. 
           </p>
           <a href='#contact' className='btn btn-primary'>Contactame</a>
       </div>
